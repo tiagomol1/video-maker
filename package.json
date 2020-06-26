@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/tiagomol1/video-maker#readme",
   "dependencies": {
-    "readline-sync": "^1.4.10"
+    "algorithmia": "^0.3.10",
+    "gm": "^1.23.1",
+    "googleapis": "^52.1.0",
+    "ibm-watson": "^5.6.0",
+    "image-downloader": "^4.0.1",
+    "readline-sync": "^1.4.10",
+    "sbd": "^1.0.18"
   }
 }
